@@ -9,8 +9,6 @@
 
 *AI-powered crowd monitoring system untuk keamanan dan efisiensi kota cerdas*
 
-[Demo](#demo) • [Installation](#installation) • [Usage](#usage) • [Documentation](#documentation)
-
 </div>
 
 ---
